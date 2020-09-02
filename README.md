@@ -19,3 +19,14 @@ pip3 install pyttsx3
 #### for python2 
 
 pip install pyttsx3
+
+## Sources:
+    pyttsx3 offical gitub
+https://github.com/nateshmbhat/pyttsx3
+
+    pyttsx3 documentation:
+    
+    https://pyttsx3.readthedocs.io/en/latest/
+
+### Youtube Vidoe Link:
+
