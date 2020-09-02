@@ -25,8 +25,7 @@ pip install pyttsx3
 https://github.com/nateshmbhat/pyttsx3
 
     pyttsx3 documentation:
-    
-    https://pyttsx3.readthedocs.io/en/latest/
+https://pyttsx3.readthedocs.io/en/latest
 
 ### Youtube Vidoe Link: https://youtu.be/yQyIiME_q9c
 
